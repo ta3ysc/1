@@ -1,0 +1,16 @@
+.body {
+    background-color: gray;
+    position: relative;
+    text-align: center;
+}
+
+.tonsec {
+    position: relative;
+    width: 150px;
+}
+
+.şarkılar {
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
