@@ -6,6 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="inde.css">
+    <style>.body {
+    background-color: gray;
+    position: relative;
+    text-align: center;
+}
+
+.tonsec {
+    text-align: center;
+    width: 150px;
+    margin: auto;
+}
+
+.şarkılar {
+    text-align: center;
+    margin: auto;
+    position: relative;
+}</style>
 </head>
 <body>
     
